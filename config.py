@@ -1,8 +1,8 @@
 # Telegram Bot Token
-TOKEN = "8402718675:AAG_dKQgDo_p1fffvyAMhLB_XYHb7e7G564"
+TOKEN = ""
 
 # Admin Telegram ID (get it from @userinfobot)
-ADMIN_ID = 459391642
+ADMIN_ID = 
 
 # Paths
 IMAGES_DIR = "/opt/telegram_image_bot/images"
